@@ -5,7 +5,6 @@
 ### Refer to our most [up-to-date methodologies](https://github.com/climatetracecoalition/methodology-documents/tree/main/2025) for specific sector approaches to estimate emissions. 
 ### To view and download Climate TRACE emissions data, visit the [Climate TRACE website](https://climatetrace.org/).
 
-# Climate TRACE – Peer-Reviewed Articles and Mentions
 _**<h6>Last updated: January 30, 2026</h6>**_
 ---
 
