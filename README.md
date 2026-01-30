@@ -125,7 +125,7 @@ _**<h6>Last updated: January 30, 2026</h6>**_
 
 - Hsu, A. and Schletz, M., 2024. <br>
   **Digital technologies–the missing link between climate action transparency and accountability?.**<br>
-  Climate Policy, 24(2), pp.193-210.,<br>
+  _Climate Policy_, 24(2), pp.193-210.,<br>
   https://doi.org/10.1080/14693062.2023.2237937
 
 - Gupta, A., 2023.  
@@ -145,7 +145,8 @@ _**<h6>Last updated: January 30, 2026</h6>**_
 ### Agriculture – Rice (Paddy Watch)
 - Zhang, G., Xiao, X., Dong, J., Xin, F., Zhang, Y., Qin, Y., Doughty, R.B. and Moore, B., 2020.  
   **Fingerprint of rice paddies in spatial–temporal dynamics of atmospheric methane concentration in monsoon Asia.**  
-  *Nature Communications*, 11(1), pp.1–11.
+  *Nature Communications*, 11(1), pp.1–11.<br>
+  https://doi.org/10.1038/s41467-019-14155-5
 
 ---
 
